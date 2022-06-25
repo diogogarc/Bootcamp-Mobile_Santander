@@ -1,0 +1,8 @@
+# Aula 01 - Pensamento Computacional
+
+Pensamento computacional não se restringe a ações diretas com computador, É algo sistemático e eficiente (formulação e resolução de problemas) e capazes de resolver problemas (humanos e/ou de máquinas). É também uma habilidade generalista.
+Está baseado em 4 pilares:
+a. Decomposição
+b. Reconhecimento de Padrões
+c. Abstração
+d. Design de Algorítmos
